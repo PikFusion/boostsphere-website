@@ -139,7 +139,7 @@ export function Testimonials() {
             <iframe
               width="100%"
               height="100%"
-              src="https://www.youtube.com/embed/xEpPoeHFJUw"
+              src="https://www.youtube.com/embed/Y03y0uwfrb8"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -151,7 +151,7 @@ export function Testimonials() {
             <iframe
               width="100%"
               height="100%"
-              src="https://youtube.com/shorts/Y03y0uwfrb8"
+              src="https://www.youtube.com/embed/xEpPoeHFJUw"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -159,6 +159,7 @@ export function Testimonials() {
               allowFullScreen
             ></iframe>
           </div>
+
         </div>
       </div>
     </Section>
